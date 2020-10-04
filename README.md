@@ -21,10 +21,10 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [WordPress Plugin Development - EP01 - Setup Plugin Structure](https://www.youtube.com/watch?v=WzamUSHoyhU)
 - [How to create custom Gutenberg block for WordPress - EP5 - Using Inspector Controls](https://www.youtube.com/watch?v=aExNCK08jDQ)
 - [How to create custom Gutenberg block for WordPress - EP4 - Using Inner Blocks](https://www.youtube.com/watch?v=08VFfZM2thU)
 - [How to create custom Gutenberg block for WordPress - EP3 - Using RichText Editor](https://www.youtube.com/watch?v=nJjPzYCgKWo)
 - [How to create custom Gutenberg block for WordPress - EP2 - Call to Action Block](https://www.youtube.com/watch?v=nCQBk1rDob8)
-- [How to create custom Gutenberg block for WordPress - EP1 - Setup the plugin structure](https://www.youtube.com/watch?v=Jwb6chFdrvc)
 <!-- YOUTUBE:END -->
 
