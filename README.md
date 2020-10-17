@@ -21,10 +21,10 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [WordPress Plugin Development with VUE Js - EP04 - Creating Admin Menu](https://www.youtube.com/watch?v=b1hZpJJY04A)
 - [WordPress Plugin Development with VUE Js - EP03 - Creating REST API](https://www.youtube.com/watch?v=EBKRkRGM9Nw)
 - [WordPress Plugin Development with VUE Js - EP02 - Creating REST API](https://www.youtube.com/watch?v=xNj41D9HXIE)
 - [WordPress Plugin Development with VUE Js - EP01 - Setup Plugin Structure](https://www.youtube.com/watch?v=WzamUSHoyhU)
 - [How to create custom Gutenberg block for WordPress - EP5 - Using Inspector Controls](https://www.youtube.com/watch?v=aExNCK08jDQ)
-- [How to create custom Gutenberg block for WordPress - EP4 - Using Inner Blocks](https://www.youtube.com/watch?v=08VFfZM2thU)
 <!-- YOUTUBE:END -->
 
