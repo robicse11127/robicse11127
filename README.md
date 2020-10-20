@@ -21,7 +21,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [WordPress Plugin Development with VUE JS - EP05 - Creating Admin Menu](https://www.youtube.com/watch?v=q31m12rv_Ig)
+- [WordPress Plugin Development with VUE JS - EP05 - Using Laravel Mix](https://www.youtube.com/watch?v=q31m12rv_Ig)
 - [WordPress Plugin Development with VUE Js - EP04 - Creating Admin Menu](https://www.youtube.com/watch?v=b1hZpJJY04A)
 - [WordPress Plugin Development with VUE Js - EP03 - Creating REST API](https://www.youtube.com/watch?v=EBKRkRGM9Nw)
 - [WordPress Plugin Development with VUE Js - EP02 - Creating REST API](https://www.youtube.com/watch?v=xNj41D9HXIE)
