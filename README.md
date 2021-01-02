@@ -21,10 +21,10 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How to Setup Plugin Structure for Gutenberg Block Development](https://www.youtube.com/watch?v=eK1M3yy6eO4)
 - [WordPress Plugin Development with VUE JS - EP09 - Integrating VUEX Part 3](https://www.youtube.com/watch?v=EHEDKd7s5YM)
 - [WordPress Plugin Development with VUE JS - EP08 - Integrating VUEX Part 2](https://www.youtube.com/watch?v=g_EOONzB9l8)
 - [WordPress Plugin Development with VUE JS - EP07 - Integrating VUEX](https://www.youtube.com/watch?v=zlLVPnMWbZ8)
 - [WordPress Plugin Development with VUE JS - EP06 - Integrating VUE & VUE Router](https://www.youtube.com/watch?v=60tb2iOOXWA)
-- [WordPress Plugin Development with VUE JS - EP05 - Using Laravel Mix](https://www.youtube.com/watch?v=q31m12rv_Ig)
 <!-- YOUTUBE:END -->
 
