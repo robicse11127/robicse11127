@@ -21,10 +21,10 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Learn JavaScript | JavaScript Variables | EP02](https://www.youtube.com/watch?v=esiXUcFHvNY)
 - [Learn JavaScript | Introduction to JavaScript | EP01](https://www.youtube.com/watch?v=b2ULFXSDyLA)
 - [How to Setup Plugin Structure for Gutenberg Block Development](https://www.youtube.com/watch?v=eK1M3yy6eO4)
 - [WordPress Plugin Development with VUE JS - EP09 - Integrating VUEX Part 3](https://www.youtube.com/watch?v=EHEDKd7s5YM)
 - [WordPress Plugin Development with VUE JS - EP08 - Integrating VUEX Part 2](https://www.youtube.com/watch?v=g_EOONzB9l8)
-- [WordPress Plugin Development with VUE JS - EP07 - Integrating VUEX](https://www.youtube.com/watch?v=zlLVPnMWbZ8)
 <!-- YOUTUBE:END -->
 
