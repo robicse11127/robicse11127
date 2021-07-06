@@ -21,10 +21,10 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [WordPress Gutenberg Sidebar Plugin Development - EP 03](https://www.youtube.com/watch?v=YX51-tN-DG0)
 - [WordPress Gutenberg Sidebar Plugin Development - EP 02](https://www.youtube.com/watch?v=P1q61STFqaE)
 - [WordPress Gutenberg Sidebar Plugin Development - EP 01](https://www.youtube.com/watch?v=JB4tUlWLLgQ)
 - [WordPress Plugin Development with React JS - Part 02](https://www.youtube.com/watch?v=k2W5W_I4_H4)
 - [WordPress Plugin Development with React JS - Part 01](https://www.youtube.com/watch?v=XMJrdhvW4vs)
-- [Learn JavaScript | JavaScript Variables | EP02](https://www.youtube.com/watch?v=esiXUcFHvNY)
 <!-- YOUTUBE:END -->
 
